@@ -1,0 +1,9 @@
+var shortGolang = "Watch Go crash course"
+	var fullGolang = "Watch Nana's Golang Full Course"
+	var rewardDessert = "Reward myself with a donut"
+	var taskItems = []string{shortGolang, fullGolang, rewardDessert}
+
+	printTasks(taskItems)
+	fmt.Println()
+	taskItems = addTask(taskItems, "Go for a run")
+	taskItems = addTask(taskItems, "Practice coding in Go")
