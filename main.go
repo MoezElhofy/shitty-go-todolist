@@ -6,7 +6,7 @@ import (
 )
 
 var shortGolang = "Watch Go crash course"
-var fullGolang = "Watch Nana's Golang Full Course"
+var fullGolang = "Watch Golang Full Course"
 var rewardDessert = "Reward myself with a donut"
 var taskItems = []string{shortGolang, fullGolang, rewardDessert}
 
